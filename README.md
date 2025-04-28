@@ -147,7 +147,7 @@ love challenges.
                           0 0 40px rgba(0,255,255,0.7);
              animation: title-glow 2s ease-in-out infinite alternate;
              font-family: 'Audiowide', cursive;">
-   ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
 
 <p align="center">
   <!-- Botón principal con efecto neón -->
