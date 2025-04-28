@@ -139,23 +139,8 @@ love challenges.
 <p align="center">
   <!-- Botón principal con efecto neón -->
   <a href="#snake-anchor" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Explore_My_Creations-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&borderColor=00FFFF&link=https://github.com/TU_USER" alt="Projects" onmouseover="this.style.filter='brightness(1.2)'" onmouseout="this.style.filter='none'">
+    <img src="https://img.shields.io/badge/Explore_My_PROJECTS-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&borderColor=00FFFF&link=https://github.com/TU_USER" alt="Projects" onmouseover="this.style.filter='brightness(1.2)'" onmouseout="this.style.filter='none'">
   </a>
-  
-  <!-- Tarjetas de proyectos flotantes -->
-  <div align="center" style="margin-top: 20px;">
-    <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=2000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=180&height=50&lines=%F0%9F%92%BB+Web+Projects;%F0%9F%93%88+Open+Source;%F0%9F%9A%80+Startups" alt="Project Types">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Mobile_Apps-00FFFF?style=flat-square&logo=android&logoColor=black&link=https://github.com/TU_USER" style="margin: 0 5px;">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/AI_Experiments-FF00FF?style=flat-square&logo=ai&logoColor=white&link=https://github.com/TU_USER" style="margin: 0 5px;">
-    </a>
-  </div>
-</p>
-
 <!-- Efecto de separador holográfico -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
