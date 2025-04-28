@@ -18,7 +18,7 @@
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-      HI, I WILL MAKE YOU <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">A LOT OF MONEY</span>💸
+      HI, i will give you <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">a LOT of MONEY</span>💸
     </span>
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
@@ -172,6 +172,15 @@ love challenges.
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
   <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
+</p>
+
+
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> My Projects
+
+<p align="center">
+  <a href="#snake-anchor">
+    <img src="https://img.shields.io/badge/SEE_SNAKE_ANIMATION-FF00FF?style=for-the-badge&logo=snake&logoColor=white" alt="View Snake">
+  </a>
 </p>
 
 ## 🐍 Snake Eating Contributions
@@ -208,7 +217,7 @@ love challenges.
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-      HI, I WILL MAKE YOU <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">A LOT OF MONEY</span>💸
+      Hola, te haré GANAR <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">mucho DINERO </span>💸
     </span>
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
@@ -281,12 +290,12 @@ love challenges.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
--- My name is Daniel Camilo, and I am here to make you a lot of MONEY.
+-- Mi nombre es Daniel Camilo, y estoy aquí para hacerte ganar mucho dinero.
 <br><br>
--- I am a developer very passionate about the Backend world, I love to build and improve things using programming, and I love challenges. 
-love challenges.
+-- Soy un desarrollador muy apasionado por el mundo de BACKEND y la tecnología, Yo amo construir y solucionar problemas usando la programación y yo adoro los desafios. 
+
 <br><br>
--- Currently I specialize in the BACKEND area using mainly JAVA language (I am always willing to learn what is necessary).
+-- Actualmente me especializo en el área del BACKEND usando principalmente el lengua JAVA y sus herramientas (Aunque siempre puedo aprender lo que sea necesario).
 
 <p align="center">
   <br>
@@ -313,7 +322,7 @@ love challenges.
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacta conmigo
 <p align="center">
     <!-- Botones en línea sin espacios -->
     <a href="https://mail.google.com/mail/?view=cm&to=daniel256531@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&logoSize=20" alt="Gmail"/></a><!--
@@ -323,9 +332,9 @@ love challenges.
     --><a href="URL_AQUI"><img src="https://img.shields.io/badge/Download_CV-%238A2BE2.svg?style=for-the-badge&logo=file-pdf&logoColor=white&logoSize=20" alt="Download CV"/></a>
 </p>
 	
-## 🛠️ My Skills
+## 🛠️ Mis habilidades
 
-### <picture> <img src = "assets/imgs/LogoJava.jpg" width = 50px>  </picture> Programming languages
+### <picture> <img src = "assets/imgs/LogoJava.jpg" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
   &emsp;
@@ -333,7 +342,7 @@ love challenges.
     <img alt="Java" src="assets/imgs/LogoJava.jpg" width = 45>
   </a>
 </p>
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> Frontend Development
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> Desarrollo FRONTEND
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -344,7 +353,7 @@ love challenges.
   </a> 
 </p>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software & Tools
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> SOFTWARE Y HERRAMIENTAS
 
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
@@ -364,7 +373,7 @@ love challenges.
   <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
 </p>
 
-## 🐍 Snake Eating Contributions
+## <span id="snake-anchor">🐍 Snake Eating Contributions</span>
 
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
 
