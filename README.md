@@ -119,7 +119,7 @@ love challenges.
   <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
 </p>
 
-
+<br>
 
 
 
@@ -133,6 +133,7 @@ love challenges.
     --><a href="URL_AQUI"><img src="https://img.shields.io/badge/Download_CV-%238A2BE2.svg?style=for-the-badge&logo=file-pdf&logoColor=white&logoSize=20" alt="Download CV"/></a>
 </p>
 
+<br>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
 
@@ -146,7 +147,7 @@ love challenges.
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
 </div>
 
-
+<br>
 	
 ## 🛠️ My Skills
 
