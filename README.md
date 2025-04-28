@@ -135,18 +135,46 @@ love challenges.
 
 <br>
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
-
-<p align="center">
-  <!-- Botón principal con efecto neón -->
-  <a href="#snake-anchor" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Explore_My_PROJECTS-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&borderColor=00FFFF&link=https://github.com/TU_USER" alt="Projects" onmouseover="this.style.filter='brightness(1.2)'" onmouseout="this.style.filter='none'">
-  </a>
-<!-- Efecto de separador holográfico -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+## <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 30px 0;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="60px" style="filter: drop-shadow(0 0 12px #FF00FF);">
+  <h1 style="margin: 0;
+             font-size: 2.5em;
+             background: linear-gradient(45deg, #FF00FF 30%, #00FFFF 70%);
+             -webkit-background-clip: text;
+             background-clip: text;
+             color: transparent;
+             text-shadow: 0 0 20px rgba(255,0,255,0.7),
+                          0 0 40px rgba(0,255,255,0.7);
+             animation: title-glow 2s ease-in-out infinite alternate;
+             font-family: 'Audiowide', cursive;">
+    MY PROJECTS
+  </h1>
 </div>
 
+<p align="center" style="margin: 40px 0;">
+  <!-- Botón gigante con efecto hover mejorado -->
+  <a href="#snake-anchor" style="text-decoration: none; display: inline-block; transition: transform 0.3s;">
+    <img src="https://img.shields.io/badge/🚀🚀🚀_EXPLORE_MY_PROJECTS_🚀🚀🚀-000000?style=for-the-badge&logo=rocket&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=20px&link=https://github.com/TU_USER" 
+         alt="Projects" 
+         style="transition: all 0.3s; padding: 15px 30px;"
+         onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.3) drop-shadow(0 0 15px #FF00FF)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.filter='none'">
+  </a>
+</p>
+
+<style>
+  @keyframes title-glow {
+    from { text-shadow: 0 0 10px rgba(255,0,255,0.5),
+                       0 0 20px rgba(0,255,255,0.5); }
+    to { text-shadow: 0 0 30px rgba(255,0,255,0.9),
+                     0 0 50px rgba(0,255,255,0.9); }
+  }
+</style>
+
+<!-- Separador mejorado -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%" style="filter: hue-rotate(90deg) brightness(1.5);">
+</div>
 <br>
 	
 ## 🛠️ My Skills
