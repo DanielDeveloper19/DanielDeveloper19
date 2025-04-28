@@ -1,6 +1,87 @@
-<h1 align="center">Hi, I will make you a lot of MONEY💸. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=You+seem+cool!;Here+to+help+you!;Backend+Development+Expert;Tech+Solutions+Specialist"></a>
+<h1 align="center" style="position: relative;">
+  <div style="
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    background: linear-gradient(45deg, #000000 0%, #1a1a1a 25%, #2d2d2d 50%, #1a1a1a 75%, #000000 100%);
+    border: 3px solid #00FF9D;
+    border-radius: 8px;
+    box-shadow: 0 0 20px #00FF9D,
+                inset 0 0 15px rgba(0, 255, 157, 0.3);
+    transform: skew(-5deg);
+  ">
+    <span style="
+      color: #00FF9D;
+      text-shadow: 0 0 10px #00FF9D,
+                   0 0 20px #00FF9D,
+                   0 0 30px #00FF9D;
+      font-family: 'Courier New', monospace;
+      letter-spacing: 2px;
+    ">
+      HI, I WILL MAKE YOU <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">A LOT OF MONEY</span>💸
+    </span>
+    <img 
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+      width="35" 
+      style="
+        filter: contrast(150%) 
+               drop-shadow(0 0 5px #00FF9D)
+               drop-shadow(0 0 15px #FF00FF);
+        margin-left: 15px;
+        transform: rotate(5deg);
+      ">
+  </div>
+  <div style="
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 4px;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 5px,
+      #FF00FF 5px,
+      #FF00FF 10px
+    );
+    box-shadow: 0 0 10px #FF00FF;
+  "></div>
+</h1>
+
+<p align="center" style="
+  margin-top: 30px;
+  padding: 20px;
+  background: linear-gradient(145deg, 
+    rgba(0,0,0,0.9) 0%, 
+    rgba(42,42,42,0.9) 50%, 
+    rgba(0,0,0,0.9) 100%
+  );
+  border: 2px solid #FF00FF;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+">
+  <!-- Efecto de líneas de escaneo -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 255, 157, 0.1) 0%,
+      rgba(0, 255, 157, 0.1) 1%,
+      transparent 1%,
+      transparent 5%
+    );
+    pointer-events: none;
+  "></div>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300FF9D&size=26&center=true&vCenter=true&width=680&height=100&lines=YOU+SEEM+COOL!;HERE+TO+HELP+YOU!;BACKEND+DEVELOPMENT+EXPERT;TECH+SOLUTIONS+SPECIALIST&duration=3000&pause=1000&background=00000000">
+  </a>
 </p>
 
 
