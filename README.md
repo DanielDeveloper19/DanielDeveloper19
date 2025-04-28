@@ -179,6 +179,20 @@ love challenges.
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
 
 
+# <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" width="30"> English Version 
+
+## 🗂 Featured Repositories (English)
+<!-- Repositorios en inglés -->
+<div align="center">
+  <a href="URL_DEL_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USER&repo=REPO_1&theme=dark&show_owner=true" alt="Repo 1">
+  </a>
+  <a href="URL_DEL_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USER&repo=REPO_2&theme=dark&show_owner=true" alt="Repo 2">
+  </a>
+</div>
+
+
 <!-- Parte in spanish -->
 
 <br>
