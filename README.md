@@ -184,7 +184,7 @@ love challenges.
 ## 🗂 Featured Repositories (English)
 <!-- Repositorios en inglés -->
 <div align="center">
-  <a href="URL_DEL_REPO_1">
+  <a href"https://github.com/DanielDeveloper19/PortafolioWebDanielFinal.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USER&repo=REPO_1&theme=dark&show_owner=true" alt="Repo 1">
   </a>
   <a href="URL_DEL_REPO_2">
