@@ -363,7 +363,52 @@ love challenges.
     --><a href="https://danieldeveloper19.github.io/PortafolioWebDanielFinal/"><img src="https://img.shields.io/badge/My_Portfolio_Web-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&logoSize=20" alt="Portfolio"/></a><!--
     --><a href="URL_AQUI"><img src="https://img.shields.io/badge/Download_CV-%238A2BE2.svg?style=for-the-badge&logo=file-pdf&logoColor=white&logoSize=20" alt="Download CV"/></a>
 </p>
+
+<br>
+
+## <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 30px 0;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="60px" style="filter: drop-shadow(0 0 12px #FF00FF);">
+  <h1 style="margin: 0;
+             font-size: 2.5em;
+             background: linear-gradient(45deg, #FF00FF 30%, #00FFFF 70%);
+             -webkit-background-clip: text;
+             background-clip: text;
+             color: transparent;
+             text-shadow: 0 0 20px rgba(255,0,255,0.7),
+                          0 0 40px rgba(0,255,255,0.7);
+             animation: title-glow 2s ease-in-out infinite alternate;
+             font-family: 'Audiowide', cursive;">
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
+
+<p align="center">
+  <!-- Botón principal con efecto neón -->
+<a href="#snake-anchor" style="text-decoration: none; display: inline-block; transition: all 0.3s;">
+  <img src="https://img.shields.io/badge/🚀CLICK_HERE_TO_(_EXPLORE_MY_PROJECTS_)👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
+       alt="Projects" 
+       style="margin: 15px;
+              padding: 12px 25px;
+              border-radius: 8px;
+              transition: all 0.3s;
+              filter: drop-shadow(0 0 5px #FF00FF);"
+       onmouseover="this.style.transform='scale(1.1)'; 
+                   this.style.filter='brightness(1.4) drop-shadow(0 0 15px #00FFFF)';
+                   this.style.borderColor='#FF00FF'"
+       onmouseout="this.style.transform='scale(1)'; 
+                  this.style.filter='drop-shadow(0 0 5px #FF00FF)';
+                  this.style.borderColor='#00FFFF'">
+</a>
+<!-- Efecto de separador holográfico -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
+</div>
+
+<br>
 	
+
+<br>
+
+
+ 
 ## 🛠️ Mis habilidades
 
 ### <picture> <img src = "assets/imgs/LogoJava.jpg" width = 50px>  </picture> Lenguajes de Programación
