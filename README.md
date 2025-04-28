@@ -179,7 +179,7 @@ love challenges.
 
 <p align="center">
   <a href="#snake-anchor">
-    <img src="https://img.shields.io/badge/SEE_SNAKE_ANIMATION-FF00FF?style=for-the-badge&logo=snake&logoColor=white" alt="View Snake">
+    <img src="https://img.shields.io/badge/See My PROJECTS-FF00FF?style=for-the-badge&logo=snake&logoColor=white" alt="View Snake">
   </a>
 </p>
 
