@@ -143,27 +143,37 @@ love challenges.
     <img alt="Java" src="assets/imgs/LogoJava.jpg" width = 45>
   </a>
 </p>
- <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  ## 🛠️ Frontend Development
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> Frontend Development
+
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
 
-## 🧰 Software & Tools
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software & Tools
+
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
   <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-  <!-- Resto de badges manteniendo este formato -->
+  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"></a>
+  <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-%23007ACC.svg?style=plastic&logo=eclipse&logoColor=white"></a>
+  <a href="#"><img alt="JDBC" src="https://img.shields.io/badge/JDBC-007396?style=plastic&logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Servidores" src="https://img.shields.io/badge/Servidores-%230075A8.svg?style=plastic&logo=server&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
 </p>
 
 ## 🐍 Snake Eating Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
 
-
+![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
