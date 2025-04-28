@@ -152,7 +152,7 @@ love challenges.
 <p align="center">
   <!-- Botón principal con efecto neón -->
 <a href="#snake-anchor" style="text-decoration: none; display: inline-block; transition: all 0.3s;">
-  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS_👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
+  <img src="https://img.shields.io/badge/🚀CLICK_HERE_TO_(_EXPLORE_MY_PROJECTS_)👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
        alt="Projects" 
        style="margin: 15px;
               padding: 12px 25px;
