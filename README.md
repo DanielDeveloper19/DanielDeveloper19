@@ -151,9 +151,21 @@ love challenges.
 
 <p align="center">
   <!-- Botón principal con efecto neón -->
-  <a href="#snake-anchor" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Explore_My_PROJECTS-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&borderColor=00FFFF&link=https://github.com/TU_USER" alt="Projects" onmouseover="this.style.filter='brightness(1.2)'" onmouseout="this.style.filter='none'">
-  </a>
+<a href="#snake-anchor" style="text-decoration: none; display: inline-block; transition: all 0.3s;">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS_👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
+       alt="Projects" 
+       style="margin: 15px;
+              padding: 12px 25px;
+              border-radius: 8px;
+              transition: all 0.3s;
+              filter: drop-shadow(0 0 5px #FF00FF);"
+       onmouseover="this.style.transform='scale(1.1)'; 
+                   this.style.filter='brightness(1.4) drop-shadow(0 0 15px #00FFFF)';
+                   this.style.borderColor='#FF00FF'"
+       onmouseout="this.style.transform='scale(1)'; 
+                  this.style.filter='drop-shadow(0 0 5px #FF00FF)';
+                  this.style.borderColor='#00FFFF'">
+</a>
 <!-- Efecto de separador holográfico -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/line-neon.gif" width="100%">
