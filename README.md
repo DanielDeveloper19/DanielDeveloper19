@@ -378,12 +378,12 @@ love challenges.
                           0 0 40px rgba(0,255,255,0.7);
              animation: title-glow 2s ease-in-out infinite alternate;
              font-family: 'Audiowide', cursive;">
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">MY</span> <span style="color: #00FFFF;">PROJECTS</span>
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">Mis</span> <span style="color: #00FFFF;">PROYECTOS</span>
 
 <p align="center">
   <!-- Botón principal con efecto neón -->
 <a href="#snake-anchor" style="text-decoration: none; display: inline-block; transition: all 0.3s;">
-  <img src="https://img.shields.io/badge/🚀CLICK_HERE_TO_(_EXPLORE_MY_PROJECTS_)👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
+  <img src="https://img.shields.io/badge/🚀CLICK_AQUÍ_PARA_(_EXPLORAR_MIS_PROYECTOS_)👨💻-000000?style=for-the-badge&logo=starship&logoColor=FF00FF&labelColor=000000&border=3px_solid_#00FFFF&fontSize=18px&link=https://github.com/TU_USER" 
        alt="Projects" 
        style="margin: 15px;
               padding: 12px 25px;
