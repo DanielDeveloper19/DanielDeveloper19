@@ -87,13 +87,13 @@
 
 [![VER PERFIL EN ESPAÑOL](https://img.shields.io/badge/-VER%20PERFIL%20EN%20ESPAÑOL-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](https://github.com/tu_usuario)
 
-[![VIEW_PROFILE_IN_ENGLISH](https://img.shields.io/badge/-VIEW%20PROFILE%20IN%20ENGLISH-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](https://github.com/tu_usuario)
+[![VIEW_PROFILE_IN_ENGLISH](https://img.shields.io/badge/-VIEW%20PROFILE%20IN%20ENGLISH-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](#about-me)
 
 <br>
 
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me <a id="about-me"></a>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
