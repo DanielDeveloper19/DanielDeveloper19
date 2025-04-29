@@ -131,10 +131,12 @@ love challenges.
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
     <!-- Botones en línea sin espacios -->
-    <a href="https://mail.google.com/mail/?view=cm&to=daniel256531@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&logoSize=20" alt="Gmail"/></a><!--
+<a href="https://danieldeveloper19.github.io/PortafolioWebDanielFinal/"><img src="https://img.shields.io/badge/My_Portfolio_Web-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&logoSize=20" alt="Portfolio"/></a>   
+	
+ <a href="https://mail.google.com/mail/?view=cm&to=daniel256531@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&logoSize=20" alt="Gmail"/></a><!--
     --><a href="https://wa.me/+573216215543"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=20" alt="Whatsapp"/></a><!--
-    --><a href="https://www.linkedin.com/in/daniel-camilo-montoya-arboleda-803854346"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=20" alt="LinkedIn"/></a><!--
-    --><a href="https://danieldeveloper19.github.io/PortafolioWebDanielFinal/"><img src="https://img.shields.io/badge/My_Portfolio_Web-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&logoSize=20" alt="Portfolio"/></a><!--
+    --><a href="https://www.linkedin.com/in/daniel-camilo-montoya-arboleda-803854346"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=20" alt="LinkedIn"/></a>
+   <!--
     --><a href="URL_AQUI"><img src="https://img.shields.io/badge/Download_CV-%238A2BE2.svg?style=for-the-badge&logo=file-pdf&logoColor=white&logoSize=20" alt="Download CV"/></a>
 </p>
 
