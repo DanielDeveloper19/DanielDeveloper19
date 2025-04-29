@@ -85,7 +85,8 @@
 </p>
 
 
-
+[![VER PERFIL EN ESPAÑOL](https://img.shields.io/badge/-VER%20PERFIL%20EN%20ESPAÑOL-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](https://github.com/tu_usuario)
+<br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -214,7 +215,7 @@ love challenges.
   <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
 </p>
 
-
+<br>
 ## 🐍 Snake Eating Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
@@ -318,7 +319,7 @@ love challenges.
 
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -350,7 +351,7 @@ love challenges.
   <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
 </p>
 
-
+<br>
 
 
 
@@ -419,6 +420,8 @@ love challenges.
     <img alt="Java" src="assets/imgs/LogoJava.jpg" width = 45>
   </a>
 </p>
+
+<br>
  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> Desarrollo FRONTEND
 
 <p align="center"> 
@@ -430,6 +433,7 @@ love challenges.
   </a> 
 </p>
 
+<br>
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> SOFTWARE Y HERRAMIENTAS
 
 <p align="center">
@@ -450,6 +454,7 @@ love challenges.
   <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
 </p>
 
+<br>
 ## <span id="snake-anchor">🐍 Snake Eating Contributions</span>
 
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
