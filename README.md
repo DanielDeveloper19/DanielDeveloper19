@@ -254,7 +254,7 @@ love challenges.
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-     <span id="ganar-dinero" style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">mucho DINERO </span>💸
+    Hola, Te ves BIEN hoy!, te haré GANAR <span id="ganar-dinero" style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">mucho DINERO </span>💸
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
       width="35" 
