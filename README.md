@@ -84,8 +84,7 @@
   </a>
 </p>
 
-
-[![VER PERFIL EN ESPAÑOL](https://img.shields.io/badge/-VER%20PERFIL%20EN%20ESPAÑOL-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](#acerca-de-mi)
+[![VER PERFIL EN ESPAÑOL](https://img.shields.io/badge/-VER%20PERFIL%20EN%20ESPAÑOL-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](#ganar-dinero)
 
 [![VIEW_PROFILE_IN_ENGLISH](https://img.shields.io/badge/-VIEW%20PROFILE%20IN%20ENGLISH-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](#about-me)
 
@@ -255,8 +254,7 @@ love challenges.
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-      Hola, Te ves BIEN hoy!, te haré GANAR <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">mucho DINERO </span>💸
-    </span>
+     <span id="ganar-dinero" style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">mucho DINERO </span>💸
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
       width="35" 
