@@ -463,6 +463,6 @@ love challenges.
 
 [![Volver al inicio](https://img.shields.io/badge/-Volver%20al%20inicio-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](#ganar-dinero)
 
-[![back to main menu](https://img.shields.io/badge/-Back%20to%20Main%20Menu-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](#about-me)
+[![back to main menu](https://img.shields.io/badge/-Back%20to%20Main%20Page-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](#about-me)
 
 
