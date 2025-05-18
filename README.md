@@ -115,6 +115,11 @@ love challenges.
   &emsp;
   <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=microdotblog&logoColor=white"></a>
   &emsp;
+  <!-- Nuevos badges agregados -->
+  <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge&logo=testinglibrary&logoColor=white"></a>
+  &emsp;
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
