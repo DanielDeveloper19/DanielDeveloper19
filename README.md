@@ -105,50 +105,29 @@ love challenges.
 
 <p align="center">
   <br>
-  <!-- Java -->
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   &emsp;
-  
-  <!-- Spring Boot -->
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"></a>
   &emsp;
-  
-  <!-- Spring Framework -->
-  <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
   &emsp;
-  
-  <!-- Docker -->
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
   &emsp;
-  
-  <!-- Microservices -->
-  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=microdotblog&logoColor=white"></a>
   &emsp;
-  
-  <!-- JUnit5 (Logo oficial) -->
+  <!-- Nuevos badges agregados -->
   <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"></a>
   &emsp;
-  
-  <!-- Mockito (Logo personalizado) -->
-  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA+0lEQVQ4ja2SPU7DQBBF38xK/CApEAgJKR1N/gJFRCr6FChS0dNQpqJLQUmRjgIhEBISEkKJbVmemeEjkZ3YaXhVs2/2vDczBnZcChvWAHjvL4DzEMKDUmohIlNKqZRSX0Br7U0p9QxcO+dOky4BQgj3wHmWZedZll0CJ865E2PMXkppBhwBGGMOrLVXwMF/A631KfAEvCqlHrXWp8aYgxjjd4zxGzgCMMbsG2P2gWZbQERaY0wLtMaYVkQ6Y8w3sBMRgDHmDWiAJoTQiEgH7MQYv7z3F0DTW1j13t8Cq77Bqgfe+1tg2TdY9g2W/3HwA6yoC2AqVW2vAAAAAElFTkSuQmCC&logoColor=white"></a>
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=for-the-badge&logo=testinglibrary&logoColor=white"></a>
   &emsp;
-  
-  <!-- Linux -->
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
-  
-  <!-- SQL (Logo genérico) -->
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
-  
-  <!-- Hibernate -->
   <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"></a>
   &emsp;
-  
-  <!-- Maven -->
-  <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
+  <a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a>
 </p>
-
 <br>
 
 
