@@ -453,6 +453,9 @@ love challenges.
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
   <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
   <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
+  <!-- Nuevas tecnologías agregadas -->
+  <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white"></a>
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=plastic&logo=testinglibrary&logoColor=white"></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"></a>
@@ -467,6 +470,7 @@ love challenges.
 </p>
 
 <br>
+
 ## <span id="snake-anchor">🐍 Snake Eating Contributions</span>
 
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
