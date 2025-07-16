@@ -109,7 +109,7 @@ love challenges.
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
   <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=shield&logoColor=white"></a>
+  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white"></a>
   <a href="#"><img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
   <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23FB015B.svg?style=plastic&logo=jsonwebtokens&logoColor=white"></a>
   <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
@@ -304,7 +304,7 @@ love challenges.
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
   <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=shield&logoColor=white"></a>
+  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white"></a>
   <a href="#"><img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
   <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23FB015B.svg?style=plastic&logo=jsonwebtokens&logoColor=white"></a>
   <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
