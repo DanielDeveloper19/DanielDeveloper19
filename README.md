@@ -328,6 +328,7 @@ love challenges.
     --><a href="https://www.linkedin.com/in/daniel-camilo-montoya-arboleda-803854346"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=20" alt="LinkedIn"/></a><!--
     --><a href="https://danieldeveloper19.github.io/PortafolioWebDanielFinal/"><img src="https://img.shields.io/badge/My_Portfolio_Web-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&logoSize=20" alt="Portfolio"/></a><!--
     --><a href="URL_AQUI"><img src="https://img.shields.io/badge/Download_CV-%238A2BE2.svg?style=for-the-badge&logo=file-pdf&logoColor=white&logoSize=20" alt="Download CV"/></a>
+	<a href="URL_DE_TU_CANAL_DE_YOUTUBE"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&logoSize=20" alt="YouTube"/></a>
 </p>
 
 <br>
