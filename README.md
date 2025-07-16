@@ -182,26 +182,6 @@ love challenges.
 
 <br>
 	
-## 🛠️ My Skills
-
-### <picture> <img src = "assets/imgs/LogoJava.jpg" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="assets/imgs/LogoJava.jpg" width = 45>
-  </a>
-</p>
- <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> Frontend Development
-
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-</p>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software & Tools
 
