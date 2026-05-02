@@ -18,7 +18,7 @@
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-      HI, YOU LOOK GOOD today!, i will give you <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">a LOT of MONEY</span>💸
+      HI, YOU LOOK GOOD today!, I will give you <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">a LOT of MONEY</span>💸
     </span>
     <img 
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
