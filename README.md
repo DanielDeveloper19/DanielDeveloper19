@@ -18,42 +18,115 @@
       font-family: 'Courier New', monospace;
       letter-spacing: 2px;
     ">
-     # Hi, I'm Daniel Montoya Arboleda 👋
-### Backend Engineer | Cloud Architect | Systems Engineering Student
+      HI, YOU LOOK GOOD today!, I will give you <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">a LOT of MONEY</span>💸
+    </span>
+    <img 
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+      width="35" 
+      style="
+        filter: contrast(150%) 
+               drop-shadow(0 0 5px #00FF9D)
+               drop-shadow(0 0 15px #FF00FF);
+        margin-left: 15px;
+        transform: rotate(5deg);
+      ">
+  </div>
+  <div style="
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    height: 4px;
+    background: repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 5px,
+      #FF00FF 5px,
+      #FF00FF 10px
+    );
+    box-shadow: 0 0 10px #FF00FF;
+  "></div>
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-camilo-software-engineer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daniel-software-engineer-portfolio-2.netlify.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DanielCamiloDev)
+<p align="center" style="
+  margin-top: 30px;
+  padding: 20px;
+  background: linear-gradient(145deg, 
+    rgba(0,0,0,0.9) 0%, 
+    rgba(42,42,42,0.9) 50%, 
+    rgba(0,0,0,0.9) 100%
+  );
+  border: 2px solid #FF00FF;
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+">
+  <!-- Efecto de líneas de escaneo -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 255, 157, 0.1) 0%,
+      rgba(0, 255, 157, 0.1) 1%,
+      transparent 1%,
+      transparent 5%
+    );
+    pointer-events: none;
+  "></div>
+  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%2300FF9D&size=26&center=true&vCenter=true&width=680&height=100&lines=YOU+SEEM+COOL!;HERE+TO+HELP+YOU!;BACKEND+DEVELOPMENT+EXPERT;TECH+SOLUTIONS+SPECIALIST&duration=3000&pause=1000&background=00000000">
+  </a>
+</p>
 
----
+<br>
 
-## ⚡ Engineering Philosophy: "Automation as a Standard"
-I specialize in building **resilient, high-concurrency backend systems** and automating their journey to the cloud. My focus is on moving beyond simple "coding" to **System Design**, ensuring every application I build is observable, secure, and production-ready from day one.
 
-### 🏛️ Technical Strategic Muscle
-* **Backend Mastery:** Crafting transactional Java Spring Boot microservices with a focus on ACID compliance and data integrity.
-* **Cloud Orchestration:** Architecting "One-Click" AWS environments using Terraform (EKS, VPC, RDS).
-* **GitOps & CI/CD:** Implementing zero-touch delivery pipelines with GitHub Actions, ArgoCD, and Helm.
-* **Observability:** Engineering telemetry-rich systems using Prometheus and Grafana.
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me <a id="about-me"></a>
 
----
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-## 🛠️ My Tech Stack
+-- My name is Daniel Camilo, and I am here to make you a lot of MONEY.
+<br><br>
+-- I am a developer very passionate about the Backend world, I love to build and improve things using programming, and I love challenges. 
+love challenges.
+<br><br>
+-- Currently I specialize in the BACKEND area using mainly JAVA language (I am always willing to learn what is necessary).
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Java (LTS), SQL, Bash |
-| **Backend** | Spring Boot, Spring Security, Hibernate, REST APIs |
-| **Cloud/Infra** | AWS (EKS, VPC, RDS, S3), Terraform, Linux |
-| **DevOps/Ops** | Kubernetes, Docker, ArgoCD, Helm, GitHub Actions |
-| **Testing/Quality** | JUnit 5, Mockito, SonarQube, Trivy |
-| **Database** | PostgreSQL, MySQL |
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software, Skills & Tools
 
----
+<p align="center">
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
+  <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
+  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white"></a>
+  <a href="#"><img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
+  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23FB015B.svg?style=plastic&logo=jsonwebtokens&logoColor=white"></a>
+  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
+  <!-- Nuevas tecnologías agregadas -->
+  <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white"></a>
+  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=plastic&logo=testinglibrary&logoColor=white"></a>
+  <a href="#"><img alt="Integration Tests" src="https://img.shields.io/badge/Integration_Tests-%2300C853.svg?style=plastic&logo=checkmarx&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"></a>
+  <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-%23007ACC.svg?style=plastic&logo=eclipse&logoColor=white"></a>
+  <a href="#"><img alt="JDBC" src="https://img.shields.io/badge/JDBC-007396?style=plastic&logo=oracle&logoColor=white"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"></a>
+  <a href="#"><img alt="Servidores" src="https://img.shields.io/badge/Servidores-%230075A8.svg?style=plastic&logo=server&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
+</p>
+<br>
 
-## 📈 Featured Engineering Lab
-👉 **[Enterprise GitOps Engine](https://github.com/DanielDeveloper19/Store_Management_Terraform_EKS_kubernetes_infra_AWS)**
-*Automating a production-ready AWS EKS environment with a single script. This lab showcases my ability to bridge the gap between software development and cloud operations.*
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
