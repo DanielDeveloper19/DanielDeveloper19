@@ -92,13 +92,16 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
--- My name is Daniel Camilo, and I am here to make you a lot of MONEY.
-<br><br>
--- I am a developer very passionate about the Backend world, I love to build and improve things using programming, and I love challenges. 
-love challenges.
-<br><br>
--- Currently I specialize in the BACKEND area using mainly JAVA language (I am always willing to learn what is necessary).
+## ⚡ Engineering Philosophy: "Automation as a Standard"
+I specialize in building **resilient, high-concurrency backend systems** and automating their journey to the cloud. My focus is on moving beyond simple "coding" to **System Design**, ensuring every application I build is observable, secure, and production-ready from day one.
 
+### 🏛️ Technical Strategic Muscle
+* **Backend Mastery:** Crafting transactional Java Spring Boot microservices with a focus on ACID compliance and data integrity.
+* **Cloud Orchestration:** Architecting "One-Click" AWS environments using Terraform (EKS, VPC, RDS).
+* **GitOps & CI/CD:** Implementing zero-touch delivery pipelines with GitHub Actions, ArgoCD, and Helm.
+* **Observability:** Engineering telemetry-rich systems using Prometheus and Grafana.
+
+---
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software, Skills & Tools
 
 <p align="center">
