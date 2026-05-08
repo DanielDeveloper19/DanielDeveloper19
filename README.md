@@ -189,17 +189,3 @@ love challenges.
 ## 🐍 Snake Eating Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
-
-
-
-
-
- 
-
-
-
-## <span id="snake-anchor">🐍 Snake Eating Contributions</span>
-
-![Snake animation](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg)
-
-[![Volver al inicio](https://img.shields.io/badge/-Volver%20al%20inicio-FF00FF?style=for-the-badge&logo=terminal&logoColor=00FFFF&labelColor=1A1A1A)](#ganar-dinero)[![back to main menu](https://img.shields.io/badge/-Back%20to%20Main%20Page-00F3FF?style=for-the-badge&logo=terminal&logoColor=FF00FF&labelColor=1A1A1A)](#about-me)
