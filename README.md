@@ -117,6 +117,10 @@ I specialize in building **resilient, high-concurrency backend systems** and aut
 
 ---
 
+## 📈 Featured Engineering Lab
+👉 **[Enterprise GitOps Engine](https://github.com/DanielDeveloper19/Store_Management_Terraform_EKS_kubernetes_infra_AWS)**
+*Automating a production-ready AWS EKS environment with a single script. This lab showcases my ability to bridge the gap between software development and cloud operations.*
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
