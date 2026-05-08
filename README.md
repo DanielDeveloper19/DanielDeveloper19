@@ -104,32 +104,18 @@ I specialize in building **resilient, high-concurrency backend systems** and aut
 ---
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> Software, Skills & Tools
 
-<p align="center">
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white"></a>
-  <a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring_Framework-%236DB33F.svg?style=plastic&logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=plastic&logo=springsecurity&logoColor=white"></a>
-  <a href="#"><img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-%234285F4.svg?style=plastic&logo=google&logoColor=white"></a>
-  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23FB015B.svg?style=plastic&logo=jsonwebtokens&logoColor=white"></a>
-  <a href="#"><img alt="Microservices" src="https://img.shields.io/badge/Microservices-009688?style=plastic&logo=microdotblog&logoColor=white"></a>
-  <!-- Nuevas tecnologías agregadas -->
-  <a href="#"><img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white"></a>
-  <a href="#"><img alt="Mockito" src="https://img.shields.io/badge/Mockito-8A4182?style=plastic&logo=testinglibrary&logoColor=white"></a>
-  <a href="#"><img alt="Integration Tests" src="https://img.shields.io/badge/Integration_Tests-%2300C853.svg?style=plastic&logo=checkmarx&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white"></a>
-  <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-%23007ACC.svg?style=plastic&logo=eclipse&logoColor=white"></a>
-  <a href="#"><img alt="JDBC" src="https://img.shields.io/badge/JDBC-007396?style=plastic&logo=oracle&logoColor=white"></a>
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black"></a>
-  <a href="#"><img alt="Servidores" src="https://img.shields.io/badge/Servidores-%230075A8.svg?style=plastic&logo=server&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI_Powered_Workflow-%234F0599.svg?style=plastic&logo=ai&logoColor=white"></a>
-</p>
-<br>
+## 🛠️ My Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java (LTS), SQL, Bash |
+| **Backend** | Spring Boot, Spring Security, Hibernate, REST APIs |
+| **Cloud/Infra** | AWS (EKS, VPC, RDS, S3), Terraform, Linux |
+| **DevOps/Ops** | Kubernetes, Docker, ArgoCD, Helm, GitHub Actions |
+| **Testing/Quality** | JUnit 5, Mockito, SonarQube, Trivy |
+| **Database** | PostgreSQL, MySQL |
+
+---
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
