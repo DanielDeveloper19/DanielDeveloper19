@@ -110,11 +110,12 @@ I specialize in building **resilient, high-concurrency backend systems** and aut
 | :--- | :--- |
 | **Languages** | Java (LTS), SQL, Bash |
 | **Backend** | Spring Boot, Spring Security, Hibernate, REST APIs |
-| **Cloud/Infra** | AWS (EKS, VPC, RDS, S3), Terraform, Linux |
-| **DevOps/Ops** | Kubernetes, Docker, ArgoCD, Helm, GitHub Actions |
+| **Cloud/Infra** | AWS (EKS, VPC, RDS, S3, EC2), Terraform, Linux |
+| **DevOps/Ops** | Kubernetes, Docker, ArgoCD, Helm, GitHub Actions, CI/CD |
 | **Testing/Quality** | JUnit 5, Mockito, SonarQube, Trivy |
 | **Database** | PostgreSQL, MySQL |
-
+| **Observability** |  Prometheus, Grafana |
+| **Architecture** |  System Design, Microservices, Kafka, RabbitMQ, Event-Driven |
 ---
 
 ## 📈 Featured Engineering Lab
