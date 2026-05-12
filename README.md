@@ -93,7 +93,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ## ⚡ Engineering Philosophy: "Automation as a Standard"
-I specialize in building **resilient, high-concurrency backend systems** and automating their journey to the cloud. My focus is on moving beyond simple "coding" to **System Design**, ensuring every application I build is observable, secure, and production-ready from day one.
+Strategic Cloud-Native Software Engineer  with a founder's mindset and a focus on engineering high-performance, 
+resilient distributed systems. I bridge the gap between complex business requirements and technical excellence within 
+the Java/Spring Boot and AWS (EKS/Terraform) ecosystems. I specialize in transforming manual, high-risk processes 
+into “One-Click” self-healing environments , leveraging a deep understanding of System Design to accelerate 
+time-to-market while reducing operational costs. A bilingual (B2+ English) communicator and cross-functional leader, I 
+excel at negotiating technical trade-offs and driving business ROI through secure, observable, and enterprise-scale 
+solutions.  
 
 ### 🏛️ Technical Strategic Muscle
 * **Backend Mastery:** Crafting transactional Java Spring Boot microservices with a focus on ACID compliance and data integrity.
